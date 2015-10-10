@@ -1,3 +1,4 @@
-p {
-  color: blue;
+/*Make first column table headers italic*/
+#make-italic{
+	font-style: italic;
 }
