@@ -2,3 +2,14 @@
 #make-italic{
 	font-style: italic;
 }
+
+/*Table border style*/
+table{
+	border: 1px;
+    border-style:solid;
+}
+
+th, td{
+	border: 1px;
+    border-style:solid;
+}
