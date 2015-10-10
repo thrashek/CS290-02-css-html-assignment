@@ -13,3 +13,13 @@ th, td{
 	border: 1px;
     border-style:solid;
 }
+
+/*Div outer-content formatting*/
+.outer-content{
+	background-color:fuchsia;
+	width:75%;
+	height:25px;
+	position:relative;
+		left:0px;
+		top:20px;
+}
