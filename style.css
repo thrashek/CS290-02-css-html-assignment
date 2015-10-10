@@ -13,3 +13,24 @@ th, td{
 	border: 1px;
     border-style:solid;
 }
+
+/*Div outer-content formatting*/
+.outer-content{
+	background-color:fuchsia;
+	width:75%;
+	height:30px;
+	position:relative;
+		left:0px;
+		top:20px;
+}
+
+/*Div inner-content formatting*/
+.inner-content{
+	background-color:blue;
+	width:75%;
+	height:15px;
+	
+	position:absolute;
+		left:12%;
+		top:25%;
+}
